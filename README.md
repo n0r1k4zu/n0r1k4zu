@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @n0r1k4zu
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning cyber security
+- 👀 I’m interested in Generative AI
 
 <!---
 n0r1k4zu/n0r1k4zu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
